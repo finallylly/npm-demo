@@ -1,6 +1,6 @@
 {
-  "name": "kuro-util",
-  "version": "1.0.2",
+  "name": "npm-demo-rj",
+  "version": "1.0.0",
   "description": "Some base methods for javascript without any dependency",
   "main": "index.js",
   "scripts": {
@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CodeLittlePrince/kuro-util.git"
+    "url": "git+https://github.com/finallylly/npm-demo.git"
   },
   "keywords": [
     "javascript"
   ],
-  "author": "CodeLittlePrince",
+  "author": "RJ",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CodeLittlePrince/kuro-util/issues"
+    "url": "https://github.com/finallylly/npm-demo/issues"
   },
-  "homepage": "https://github.com/CodeLittlePrince/kuro-util#readme",
+  "homepage": "https://github.com/finallylly/npm-demo.git#readme",
   "devDependencies": {
     "babel": "^6.23.0",
     "babel-cli": "^6.26.0",
