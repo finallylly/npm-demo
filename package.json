@@ -1,6 +1,6 @@
 {
   "name": "npm-demo-rj",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Some base methods for javascript without any dependency",
   "main": "index.js",
   "scripts": {
