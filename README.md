@@ -14,4 +14,4 @@ Some base methods for javascript without any dependency
 
 
 ---
-https://github.com/CodeLittlePrince/blog/issues/8
+https://www.npmjs.com/package/npm-demo-rj
